@@ -4,5 +4,8 @@
   "moduleDescription": "AVM Resource Module for Management Group",
   "canonicalType": "Microsoft.Management/managementGroups",
   "owners": [],
-  "telemetryIdPrefix": "46d3xtrf.res.a3ab6dd"
+  "telemetryIdPrefix": "46d3xtrf.res.a3ab6dd",
+  "alternativeNames": [
+    "MG"
+  ]
 }
